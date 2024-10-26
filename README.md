@@ -1,4 +1,4 @@
-    updated on: 15th August 2024, Thursday
+    updated on: 26th October 2024, Saturday
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/flask-server-demo">
@@ -121,4 +121,4 @@
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 [License]: https://github.com/SrijaAdhya12/flask-server-demo/blob/main/LICENSE
 
-<!-- 15/08/24 -->
+<!-- 26/10/24 -->
